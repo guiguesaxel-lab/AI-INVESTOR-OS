@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo" width="180" alt="AI INVESTOR OS Logo" />
+  <img src="./logo.png" width="180" alt="AI INVESTOR OS Logo" />
 </p>
 
 <p align="center">
