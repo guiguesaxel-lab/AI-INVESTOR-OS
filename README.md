@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="banniere.png" width="100%" alt="AI INVESTOR OS" />
+  <img src="logo.png" width="180" alt="AI INVESTOR OS Logo" />
+</p>
+
+<p align="center">
+  <img src="banniere.png" width="100%" alt="AI INVESTOR OS Banner" />
 </p>
 AI INVESTOR OS
 
