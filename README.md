@@ -107,5 +107,12 @@ AI INVESTOR OS is an experimental technology project.
 It is not financial advice, does not guarantee investment performance and should not be used as a substitute for independent financial research.
 
 ⸻
+## Documentation
+
+- [Project Vision](VISION.md)
+- [Architecture](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [V1 Specification](V1_SPECIFICATION.md)
+- [Contributing Guide](CONTRIBUTING.md)
 
 Building the future of open financial intelligence.
